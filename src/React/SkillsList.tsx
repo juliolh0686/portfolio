@@ -42,15 +42,15 @@ const SkillsList = () => {
       "Landing pages and business websites",
       "Portfolio websites",
     ],
-    "Mobile Development": [
-      "Mobile-friendly web apps",
-      "React Native mobile apps",
-    ],
-    "UI/UX Design & Prototyping": [
-      "UI design with Figma & Canva",
-      "UX research & improvements",
-      "Prototyping for websites & mobile apps",
-    ],
+    // "Mobile Development": [
+    //   "Mobile-friendly web apps",
+    //   "React Native mobile apps",
+    // ],
+    // "UI/UX Design & Prototyping": [
+    //   "UI design with Figma & Canva",
+    //   "UX research & improvements",
+    //   "Prototyping for websites & mobile apps",
+    // ],
   };
 
   const toggleItem = (item: string) => {
